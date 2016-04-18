@@ -1,0 +1,19 @@
+@media (max-width: 640px) {
+        body {
+                padding: 0;
+        }
+        .mean-container .mean-bar {
+                background-color: #869c95!important;
+                border-bottom: 2px solid #869c95;
+                margin-bottom: 4px;
+        }
+}
+
+body .top-menu .inbox-new-messages.new {
+    display:inline-block;
+    padding: 2px 4px;
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    margin: 0 2px;
+}
